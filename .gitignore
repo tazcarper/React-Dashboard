@@ -3,4 +3,3 @@ node_modules
 .sass-cache
 test/bower_components
 psd
-scripts
